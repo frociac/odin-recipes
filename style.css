@@ -1,0 +1,41 @@
+li {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 50px;
+    color: coral;
+    text-align: center;
+}
+
+.recipe-link {
+    font-size: 30px;
+}
+
+.main {
+    height: 400px;
+    width: auto;
+}
+
+.img {
+    text-align: center;
+    display: block;
+}
+
+.list-title {
+    font-size: 35px;
+    color: cornflowerblue;
+}
+
+.ingredients-container {
+    background-color: lightgrey;
+}
+
+.directions-container {
+    background-color: rgb(241, 200, 183);
+}
+
+.link {
+    font-size: 40px;
+}
